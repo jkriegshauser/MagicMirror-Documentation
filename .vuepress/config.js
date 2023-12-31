@@ -71,6 +71,15 @@ module.exports = {
         ],
       },
       {
+        title: "Core Development",
+        collapsable: true,
+        children: [
+          "core-development/introduction.md",
+          "core-development/testing.md",
+          "core-development/debugging.md",
+        ],
+      },
+      {
         title: "About",
         collapsable: true,
         children: [
